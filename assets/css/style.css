@@ -1,0 +1,96 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.bg-purple {
+  background-color: #660066;
+}
+
+.logo {
+  font-size: 37px;
+  font-family: Oswald;
+}
+
+p {
+  font-size: 16px;
+  line-height: 2;
+}
+
+h2 {
+  font-size: 25px;
+  line-height: 2.5;
+}
+
+h3 {
+  font-size: 52px;
+  font-family: Oswald;
+  font-weight: 700;
+  text-align: center;
+}
+
+.hero-section {
+  background-image: url('../img/bg_hero.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 600px;
+  background-position: center;
+}
+
+
+.linea {
+  width: 100%;
+  align-content: center;
+}
+
+.linea hr {
+  width: 20%;
+  border: 1px solid grey;
+}
+
+.linea-b {
+  width: 100%;
+  align-content: center;
+}
+
+.linea-b hr {
+  width: 20%;
+  border: 1px solid white;
+}
+
+.texto-1 {
+  font-size: 72px;
+  font-family: Oswald;
+  font-weight: 200;
+  padding-top: 350px;
+}
+
+.texto-2 {
+  font-size: 72px;
+  font-family: Oswald;
+  font-weight: 500;
+}
+
+.texto-3 {
+  color: #ffffff;
+}
+
+.subt1 {
+  font-family: Oswald;
+  font-weight: 500;
+  font-size: 25px;
+}
+
+.subt1-1 {
+  font-family: Open Sans;
+  font-size: 25px;
+  font-weight: 300;
+}
+
+.subt1, .subt1-1 {
+  display: inline-block;
+}
+
+.logos a{
+ color: #ffffff;
+ margin-left: 8px;
+}
