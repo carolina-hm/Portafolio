@@ -8,7 +8,7 @@ body {
 
 .logo {
   font-size: 37px;
-  font-family: Oswald;
+  font-family: 'Oswald', sans-serif;
 }
 
 p {
@@ -23,7 +23,7 @@ h2 {
 
 h3 {
   font-size: 52px;
-  font-family: Oswald;
+  font-family: 'Oswald', sans-serif;
   font-weight: 700;
   text-align: center;
 }
@@ -59,14 +59,14 @@ h3 {
 
 .texto-1 {
   font-size: 72px;
-  font-family: Oswald;
+  font-family: 'Oswald', sans-serif;
   font-weight: 200;
   padding-top: 350px;
 }
 
 .texto-2 {
   font-size: 72px;
-  font-family: Oswald;
+  font-family: 'Oswald', sans-serif;
   font-weight: 500;
 }
 
@@ -75,13 +75,13 @@ h3 {
 }
 
 .subt1 {
-  font-family: Oswald;
+  font-family: 'Oswald', sans-serif;
   font-weight: 500;
   font-size: 25px;
 }
 
 .subt1-1 {
-  font-family: Open Sans;
+  font-family: 'Open Sans', sans-serif;
   font-size: 25px;
   font-weight: 300;
 }
